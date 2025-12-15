@@ -2,6 +2,10 @@
 ## Introduction
 Interactive Mona Lisa is a ROS2 and Arduino project that brings the famous painting to life. By combining computer vision, robotics, and my passion for art, I created a system where Mona Lisa’s eyes follow the viewer around the room. This project is my first exploration of blending art and technology, and it was an incredibly fun and inspiring experience to build.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9395ff10-5c6a-4e04-bba2-cca9ceb9d185" width="500" alt="Interactive Mona Lisa">
+</div>
+
 ## Hardware Setup
 ### Hardware Components
 - Arduino Uno R3 Controller Board
@@ -60,6 +64,11 @@ ros2 run MMI_Project_Package microcontroller_communicator
 ```bash
 ros2 topic echo /user_position_code
 ```
+
+## Final Result of the Project
+
+https://github.com/user-attachments/assets/e712f173-1c91-433b-b0fd-a491904cb0bd
+
 
 
 
