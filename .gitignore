@@ -1,0 +1,13 @@
+# ROS2/Colcon build files
+build/
+install/
+log/
+*.log
+
+# Arduino/IDE
+*.ino~
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
